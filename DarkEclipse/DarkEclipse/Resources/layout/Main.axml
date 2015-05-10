@@ -7,10 +7,10 @@
     android:weightSum="1">
     <ListView xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="0dp"
-        android:layout_height="match_parent"
+        android:layout_height="299.6dp"
         android:layout_weight="0.5"
         android:layout_marginLeft="20dp"
-        android:layout_marginTop="25dp"
+        android:layout_marginTop="36.9dp"
         android:layout_marginRight="30dp"
         android:layout_marginBottom="15dp"
         android:autoText="false"
@@ -32,7 +32,8 @@
             android:layout_marginLeft="10"
             android:layout_marginTop="15"
             android:layout_marginBottom="5"
-            android:background="#ff292929" />
+            android:background="#ff292929"
+            android:textColor="#ffffffff" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -42,7 +43,8 @@
             android:layout_marginLeft="10"
             android:layout_marginTop="5"
             android:layout_marginBottom="5"
-            android:background="#ff292929" />
+            android:background="#ff292929"
+            android:textColor="#ffffffff" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -52,6 +54,7 @@
             android:layout_marginLeft="10"
             android:layout_marginTop="5"
             android:layout_marginBottom="15"
-            android:background="#ff292929" />
+            android:background="#ff292929"
+            android:textColor="#ffffffff" />
     </LinearLayout>
 </LinearLayout>

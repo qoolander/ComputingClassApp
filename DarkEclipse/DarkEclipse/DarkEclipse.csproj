@@ -52,6 +52,7 @@
     <Compile Include="Item.cs" />
     <Compile Include="Option.cs" />
     <Compile Include="Scenario.cs" />
+    <Compile Include="MainScreenActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
