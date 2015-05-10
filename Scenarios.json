@@ -232,9 +232,9 @@
       },
       {
         "title": "Water Maintenance Room",
-        "response": "XOXOXOXOXOXOXOX",
+        "response": "You enter the water Maintenance Room. Inside there are many tools hung up on the walls. Turning a corner, you see a man standing over another man. The latter is lying down motionless and the former turns in suprise upon your arrival. 'Get back! I'm warning you! the man shouts at you.",
         "fail response": "",
-        "location": 3,
+        "location": 14,
         "itemAddIds": [],
         "itemRequiredIds": [],
         "damageAmount": 0,
@@ -563,6 +563,89 @@
         "damageAmount": 0,
         "Combat": false,
         "CombatId": 0
- tothsatwat
+      }
+    ]
+  },
+  {      
+    "id": 14,
+    "desc": "Do you attempt to tie the man up, attack him or let him go?",
+    "options": [
+      {
+        "title": "Attempt to tie the man up",
+        "response": "Trying to tackle the man, he slips past you running out of the room. 'I'll get you for this!' he calls after you. The door slams shut and you hear a hissing sound. The air is being sucked out of your room! You must act quickly to survive. TO BE CONTINUED...",
+        "fail response": "",
+        "location": 0,
+        "itemAddIds": [],
+        "itemRequiredIds": [],
+        "damageAmount": 0,
+        "Combat": false,
+        "CombatId": 0
+        
+      },
+      {
+        "title": "Attack him",
+        "response": "You engage the man in combat",
+        "fail response": "",
+        "location": 15,
+        "itemAddIds": [4],
+        "itemRequiredIds": [],
+        "damageAmount": 0,
+        "Combat": false,
+        "CombatId": 2
+     
+      },
+      {
+        "title": "Let them go",
+        "response": "The man runs off without a word. The door slams shut and you hear a hissing sound. The air is being sucked out of your room! You must act quickly to survive. TO BE CONTINUED...",        
+        "fail response": "",
+        "location": 0,
+        "itemAddIds": [],
+        "itemRequiredIds": [],
+        "damageAmount": 0,
+        "Combat": false,
+        "CombatId": 0
+      }
+    ]
+  },
+  {      
+    "id": 15,
+    "desc": "You have successfully defeated the man. Brushing him down, you find an ID card. It says the mans name was Harvey Quinn. You try to leave the room but the door slams shut and you hear a hissing sound. The air is being sucked out of your room! You must act quickly to survive. Do you try to get into the vent, try to hack into the door through the terminal or call for help?",        
+    "options": [
+      {
+        "title": "Try to enter the vents"
+        "response": "You try to enter the vents. TO BE CONTINUED..."
+        "fail response": "",
+        "location": 0,
+        "itemAddIds": [],
+        "itemRequiredIds": [],
+        "damageAmount": 0,
+        "Combat": false,
+        "CombatId": 0
+        
+      },
+      {
+        "title": "Hack the door",
+        "response": "You run over to the terminal. TO BE CONTINUED...",
+        "fail response": "",
+        "location": 15,
+        "itemAddIds": [4],
+        "itemRequiredIds": [],
+        "damageAmount": 0,
+        "Combat": false,
+        "CombatId": 2
+     
+      },
+      {
+        "title": "Call for help",
+        "response": "There is no response",        
+        "fail response": "",
+        "location": 15,
+        "itemAddIds": [],
+        "itemRequiredIds": [],
+        "damageAmount": 0,
+        "Combat": false,
+        "CombatId": 0
+
+
 
        
