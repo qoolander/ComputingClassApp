@@ -71,6 +71,7 @@
     <AndroidResource Include="Resources\layout\ListItem.axml" />
     <AndroidResource Include="Resources\values\items.json" />
     <AndroidResource Include="Resources\values\Scenarios.json" />
+    <AndroidResource Include="Resources\layout\HomeScreen.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
 </Project>

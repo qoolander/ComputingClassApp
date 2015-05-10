@@ -1,1 +1,24 @@
-<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:background="@drawable/uibarterminal" android:layout_height="match_parent" android:weightSum="1" xmlns:android="http://schemas.android.com/apk/res/android"><ListView android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0.5" android:layout_marginLeft="20dp" android:layout_marginTop="25dp" android:layout_marginRight="30dp" android:layout_marginBottom="15dp" android:autoText="false" android:text="Hellosad \n" android:inputType="none" /><ListView android:layout_width="0dp" android:layout_height="match_parent" android:text="Hello World" android:layout_weight="0.5" /></LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@drawable/uibarterminal"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+    <ListView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.5"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="15dp"
+        android:autoText="false"
+        android:text="Hellosad \n"
+        android:inputType="none" />
+    <ListView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="Hello World"
+        android:layout_weight="0.5" />
+</LinearLayout>
