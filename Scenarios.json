@@ -223,7 +223,7 @@
                     "title": "Water Overseer's Room",
                     "response": "You enter the Water Overseer's Room to find a large white desk with a terminal sat atop of it. 5 steps into the room, and you hear someone approaching from behind you; they are holding a gun. 'Stay where you are!' the woman says, her hand trembling. 'I don't want to hurt anyone but I will if I have to',
                     "fail response": "",
-                    "location": 2,
+                    "location": 13,
                     "itemAddIds": [ ],
                     "itemRequiredIds": [ ],
                     "damageAmount": 0,
@@ -325,7 +325,7 @@
         },
         {
             "id": 8,
-            "desc": "An alarm sounds and the door to the Water Purification Room shuts, trapping you in. You hear the trickling sound of water and then, suddenly, water starts to flood the roof from the pipes. You see a control panel labeled 'Emergency Shut Down' The are 3 buttons, a Yellow one, a Purple one and a Blue one. You must press 3 in the correct order to stop the water!",
+            "desc": "An alarm sounds and the door to the Water Purification Room shuts, trapping you in. You hear the trickling sound of water and then, suddenly, water starts to flood the room from the pipes. You see a control panel labeled 'Emergency Shut Down' The are 3 buttons, a Yellow one, a Purple one and a Blue one. You must press 3 in the correct order to stop the water!",
             "options": [
                 {
                     "title": "Purple Blue Yellow",
@@ -461,7 +461,7 @@
                 },
                 {
                     "title": "Jab him in the eye with a toothbrush",
-                    "response": "The man was not expecting this. You jab the toothbrush directly into his eye causing him to collapse in pain. You take his cleaver and stumble out of the cell. To be continued...",
+                    "response": "The man was not expecting this. You jab the toothbrush directly into his eye causing him to collapse in pain. You take his cleaver and stumble out of the cell. TO BE CONTINUED...",
                     "fail response": "END SCREEN",
                     "location": 0,
                     "itemAddIds": [ 4 ],
