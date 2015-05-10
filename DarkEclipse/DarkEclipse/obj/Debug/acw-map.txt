@@ -1,0 +1,4 @@
+DarkEclipse.MainActivity, DarkEclipse;md5b909a8a2fb4a2f7e78574cf7357586c9.MainActivity
+DarkEclipse.MainActivity, DarkEclipse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b909a8a2fb4a2f7e78574cf7357586c9.MainActivity
+DarkEclipse.MainActivity;md5b909a8a2fb4a2f7e78574cf7357586c9.MainActivity
+darkeclipse.MainActivity;md5b909a8a2fb4a2f7e78574cf7357586c9.MainActivity

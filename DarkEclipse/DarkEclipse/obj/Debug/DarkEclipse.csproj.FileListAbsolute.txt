@@ -1,0 +1,17 @@
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\bin\Debug\DarkEclipse.dll
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\bin\Debug\DarkEclipse.pdb
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\bin\Debug\DarkEclipse.dll.mdb
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\bin\Debug\com.TothCo.DarkEclipse.apk
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\bin\Debug\com.TothCo.DarkEclipse-Signed.apk
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\DarkEclipse.dll
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\DarkEclipse.pdb
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\android\bin\com.TothCo.DarkEclipse.apk
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\layout\main.xml
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\values\strings.xml
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\drawable-hdpi\icon.png
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\drawable-mdpi\icon.png
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\R.cs.flag
+D:\Development\SchoolWork\App\ComputingClassApp\DarkEclipse\DarkEclipse\obj\Debug\uploadflags.txt

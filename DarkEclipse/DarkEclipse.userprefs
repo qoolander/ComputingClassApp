@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="DarkEclipse\DarkEclipse.csproj" />
+﻿<Properties StartupItem="DarkEclipse\DarkEclipse.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="DarkEclipse\MainActivity.cs" Line="23" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DarkEclipse AndroidDesignerPreferredDevice="Nexus 4" AndroidDeviceId-Debug="HT33XW908110" />
+</Properties>
